@@ -1,20 +1,63 @@
-*{
-  background-color: #F7F2E0;
+*
+{
+  background-color: #00CCFF;
+  color: #FFFFFF;
+  text-align: center;
+  font-family:Verdana, "lucida console", sans-serif; /* Schriftart */
+  font-size: 12pt;
 }
-h1 {
-  color:#D2B48C;
+
+img
+{
+  border-radius: 300px;
+  border: solid 5px;
+  border-color: white;
+}
+
+.LB
+{
+  color: #3366FF;
+}
+
+h1
+{
   font-size:28pt;
-  font-family:Verdana, "lucida console", sans-serif; /* Schriftart */
 }
 
-h2 {
-  color:#D2B48C;
+h2
+{
   font-size:19pt;
-  font-family:Verdana, "lucida console", sans-serif; /* Schriftart */
+  text-decoration: underline;
 }
 
-.abschnitt {
-  color:black;
+.abschnitt
+{
   font-size:12pt;
-  font-family:Verdana, "lucida console", sans-serif; /* Schriftart */
+  text-align: center;
+}
+
+/* Fähigkeiten */
+
+.headline
+{
+  text-align: center;
+  font-size: 22px;
+}
+
+.dotF
+{
+  height: 25px;
+  width: 25px;
+  background-color: #3366FF;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dotE
+{
+  height: 25px;
+  width: 25px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
 }
