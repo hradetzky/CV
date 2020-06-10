@@ -1,0 +1,20 @@
+*{
+  background-color: #F7F2E0;
+}
+h1 {
+  color:#D2B48C;
+  font-size:28pt;
+  font-family:Verdana, "lucida console", sans-serif; /* Schriftart */
+}
+
+h2 {
+  color:#D2B48C;
+  font-size:19pt;
+  font-family:Verdana, "lucida console", sans-serif; /* Schriftart */
+}
+
+.abschnitt {
+  color:black;
+  font-size:12pt;
+  font-family:Verdana, "lucida console", sans-serif; /* Schriftart */
+}
